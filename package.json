@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@tuan149002/tempora-pariatur-nisi",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,18 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/tuan149002/tempora-pariatur-nisi.git"
   },
   "dependencies": {
+    "@tuan149002/dolor-iste-perspiciatis": "^1.0.0",
+    "@tuan149002/eos-odit-distinctio": "^1.0.0",
+    "@tuan149002/excepturi-ex-sed": "^1.0.0",
+    "@tuan149002/expedita-nisi-ipsum": "^1.0.0",
+    "@tuan149002/id-cum-ullam": "^1.0.0",
+    "@tuan149002/magni-dolor-quos": "^1.0.0",
+    "@tuan149002/maxime-repellendus-ullam": "^1.0.0",
+    "@tuan149002/nam-deserunt-distinctio": "^1.0.0",
+    "@tuan149002/natus-occaecati-vel": "^1.0.0",
+    "@tuan149002/reprehenderit-possimus-esse": "^1.0.0"
   }
 }
